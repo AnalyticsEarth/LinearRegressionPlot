@@ -1,0 +1,9 @@
+{
+	"name" : "Linear Regression Plot",
+	"description" : "Linear Regression Plot for Qonnections 2018 Advanced Analytics Integration workshop",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "extension",
+	"author": "Steven Pressland - Principal Solution Architect - steven.pressland@qlik.com"
+}
